@@ -58,6 +58,7 @@ public class ExampleAdapter extends BaseAdapter {
             descTextView.setTextColor(Color.parseColor("#ABABAB"));
             stateTextView.setText("Not installed");
             stateTextView.setTextColor(Color.parseColor("#FF0000"));
+            view.setBackgroundColor(Color.parseColor("#DBDBDB"));
         }
 
         return view;
