@@ -16,12 +16,12 @@
       "description": "No description"
     },
     {
-      "title": "Headless compute example",
-      "apk": "vulkanComputeheadless",
+      "title": "Compute shader raytracing",
+      "apk": "vulkanRaytracing",
       "description": "No description"
     },
     {
-      "title": "Compute shader N_Body simulation",
+      "title": "Compute shader N-Body simulation",
       "apk": "vulkanComputenbody",
       "description": "No description"
     },
@@ -33,6 +33,11 @@
     {
       "title": "Compute shaders",
       "apk": "vulkanComputeshader",
+      "description": "No description"
+    },
+    {
+      "title": "Headless compute",
+      "apk": "vulkanComputeheadless",
       "description": "No description"
     },
     {
@@ -116,7 +121,7 @@
       "description": "No description"
     },
     {
-      "title": "Pffscreen rendering",
+      "title": "Offscreen rendering",
       "apk": "vulkanOffscreen",
       "description": "No description"
     },
@@ -151,18 +156,18 @@
       "description": "No description"
     },
     {
+      "title": "Pipeline statistics",
+      "apk": "vulkanPipelinestatistics",
+      "description": "No description"
+    },
+    {
       "title": "Push constants",
       "apk": "vulkanPushconstants",
       "description": "No description"
     },
     {
-      "title": "Radial blug",
+      "title": "Radial blur",
       "apk": "vulkanRadialblur",
-      "description": "No description"
-    },
-    {
-      "title": "Compute shader raytracing",
-      "apk": "vulkanRaytracing",
       "description": "No description"
     },
     {
@@ -270,7 +275,7 @@
       "description": "No description"
     },
     {
-      "title": "Demo scene",
+      "title": "Vulkan Demo scene",
       "apk": "vulkanVulkanscene",
       "description": "No description"
     }
